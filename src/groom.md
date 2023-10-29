@@ -1,6 +1,6 @@
 # `groom`
 
-Groom is a Golang package helper.
+Groom was a Golang package helper.
 It helps to develop,package and distribute golang packages.
 It does this by providing some missing features from the Go binary, quality of life new features.
 

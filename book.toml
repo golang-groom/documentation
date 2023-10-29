@@ -3,4 +3,8 @@ authors = ["pspiagicw"]
 language = "en"
 multilingual = false
 src = "src"
-title = "Groom"
+title = "groom"
+
+[output.html]
+default-theme = "ayu"
+# additional-css = ["./theme/catppuccin.css", "./theme/catppuccin-highlight.css"]
